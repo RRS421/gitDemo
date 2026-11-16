@@ -1,2 +1,2 @@
-Introduction to Git
-DevOps with GitHub
+<b>Introduction to Git</b> <br>
+<i>DevOps with GitHub</i>  <br>
